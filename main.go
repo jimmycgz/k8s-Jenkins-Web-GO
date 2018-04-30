@@ -1,5 +1,5 @@
 /**
-# Test by Jmy, changed to GitHub Webhook, use Jenkins Pipeline, add "/" after hook url, test GitHub Org Proj in Jen
+# Test by Jmy, changed to GitHub Webhook, use Jenkins Pipeline, add "/" after hook url, test GitHub Org Proj in Jks, corrected branch Canary to lower case
 # Copyright 2015 Google Inc. All rights reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
